@@ -1,7 +1,5 @@
 
 
-## About Me
-
 <h1 align="center">Hi, I'm DARSHAN KC</h1>
 
 <p align="center">

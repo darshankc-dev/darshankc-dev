@@ -78,22 +78,30 @@ My current development interests include:
 
 ## Current Focus
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-SQL & Databases
-  ↓
-Backend Development
-  ↓
-AI-Assisted Applications
-
-## 📫 Connect With Me  
-- EMAIL:darshudarshankc8@gmail.com
-- LinkedIn:https://www.linkedin.com/in/darshan-k-c-darshu-464b2935a
+<p align="center">
+  <b>Java</b>
+  &nbsp;→&nbsp;
+  <b>Spring Boot</b>
+  &nbsp;→&nbsp;
+  <b>REST APIs</b>
+  &nbsp;→&nbsp;
+  <b>SQL & Databases</b>
+  &nbsp;→&nbsp;
+  <b>Backend Development</b>
+  &nbsp;→&nbsp;
+  <b>AI-Assisted Applications</b>
+</p>
 
 ---
+
+## Connect With Me
+
+<p>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="linkedin.com/in/darshan-kc-464b2935a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 

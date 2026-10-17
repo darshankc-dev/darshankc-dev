@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img
+    src="github_hero_animation.gif"
+    width="100%"
+    alt="DARSHAN KC — Backend Developer"
+  />
+</p>
+
 <h1 align="center">Hi, I'm DARSHAN KC</h1>
 
 <p align="center">

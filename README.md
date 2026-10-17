@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="github_hero_animation.gif"
+    src="Video Project.gif"
     width="100%"
     alt="DARSHAN KC — Backend Developer"
   />

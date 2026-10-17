@@ -91,20 +91,6 @@ My current development interests include:
   />
 </p>
 
----
-
-## GitHub Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=darshankc-dev&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
 ## Current Focus
 
 <p align="center">
